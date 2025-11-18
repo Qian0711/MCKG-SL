@@ -72,4 +72,4 @@ Training process generates:
 - Experiment configuration backups
 
 
-![model](model3.jpg)
+![model](model.jpg)
